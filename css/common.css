@@ -5,3 +5,8 @@
     --accent-color:#000033;
     color:var(--main color) 
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
