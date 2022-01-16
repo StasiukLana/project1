@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,600;1,300&display=swap');
+
+:root{
+    --main-color:black
+    --accent-color:#000033;
+    color:var(--main color) 
+}

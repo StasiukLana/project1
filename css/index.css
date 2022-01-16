@@ -1,16 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,600;1,300&display=swap');
+@import url(common.css);
+@import url(header.css);
 
-html{
-    --accent-color:#000033; 
-}
-
-h1{
-   font-size: 40;
-   font-family: 'Work Sans', sans-serif;
-   font-weight: 600;
-   color: #660033;
-   text-transform: uppercase;
-}
 h2{
     font-size: 30;
     font-family: 'Work Sans', sans-serif;
